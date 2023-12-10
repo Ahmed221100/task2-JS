@@ -1,0 +1,28 @@
+section{
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    height: auto;
+    padding: 40px;
+    border-radius: 9px;
+    margin-top: 12px;
+}
+section h1{
+    font-size: 84px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    padding-bottom: 23px;
+}
+section h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-bottom: 23px;
+font-weight: 400;
+}
+.rounded-circle{
+    width: 80px;
+    height: 80px;
+}
+#id{
+    padding: 23px;
+}
